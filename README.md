@@ -1,0 +1,2 @@
+# SegmentingNeighborhoodsMTY
+An entrepreneur is interested in opening a small Taco Place in the City of Monterrey, Mexico, and she needs to identify a Neighborhood with not too much competitors but with enough people that can pay for what she is planning to offer. In this project, we get addresses with latitude and longitude values for the City of Monterrey, to be able to locate th best place to open that small Restaurant.
